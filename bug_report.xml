@@ -1,1 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Bug_ID>1</Bug_ID>
+  <Description>No maximum character limit in input field MSRP</Description>
+  <Environment>Windows 10 home x64 bit, version 1909, OS build 18363.1556</Environment>
+  <Environment>Chrome Browser version 97.0.4692.71</Environment>
+  <Preconditions>go to page https://calculate-this.com/used-riding-lawn-mower-valuation-calculator</Preconditions>
+  <Steps_to_reproduce>1. Go to ‘Calculate this!’ form</Steps_to_reproduce>
+  <Steps_to_reproduce>2. Enter number 5 in the field Age</Steps_to_reproduce>
+  <Steps_to_reproduce>3. Enter the number 100000000 in the field MSRP</Steps_to_reproduce>
+  <Expected_behavior>there should be the max length property on the input field MSRP ( 10 characters recommended)</Expected_behavior>
+  <Actual_behavior>number “100000000” is accepted for input and processed</Actual_behavior>
+  <Customer_impact> allows user to enter invalid data</Customer_impact>
+  <Reproducibility>100%</Reproducibility>
+  <Recovery>-</Recovery>
+  <Severity>trivial</Severity>
+  <Priority>-</Priority>
+</root>
 
