@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Linux_Command_Line>copy, create, view, move files on servers without GUI, basics of bash scripting, automation of routine tasks on the server</Linux_Command_Line>
+  <Fundamentals_of_SQL>Create</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Delete</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Drop</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Insert Into</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Select</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>From</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Where</Fundamentals_of_SQL>
+  <Fundamentals_of_SQL>Join</Fundamentals_of_SQL>
+  <Jmeter> Load testing</Jmeter>
+  <API_testing>Postman</API_testing>
+</root>
+
